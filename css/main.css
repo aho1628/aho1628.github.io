@@ -47,12 +47,12 @@ ul.posts li {
     list-style: none;
 }
 
-ul.default {
+ul {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-ul.default li {
+li {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
