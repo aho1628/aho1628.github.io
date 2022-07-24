@@ -46,3 +46,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.default {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+ul.default li {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
